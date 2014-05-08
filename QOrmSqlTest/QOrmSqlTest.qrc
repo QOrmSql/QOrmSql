@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QOrmSqlTest.db</file>
+    </qresource>
+</RCC>
