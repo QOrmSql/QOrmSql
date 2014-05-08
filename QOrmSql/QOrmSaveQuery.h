@@ -1,5 +1,5 @@
-#ifndef QORMSAVEQUERY_H
-#define QORMSAVEQUERY_H
+#ifndef QORMSQL_QORMSAVEQUERY_H
+#define QORMSQL_QORMSAVEQUERY_H
 
 #include "QOrmModelVisitor.h"
 
@@ -24,4 +24,4 @@ private:
     Q_DECLARE_PRIVATE(QOrmSaveQuery);
 };
 
-#endif // QORMSAVEQUERY_H
+#endif // QORMSQL_QORMSAVEQUERY_H

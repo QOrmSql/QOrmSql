@@ -1,5 +1,5 @@
-#ifndef QORMDATABASE_H
-#define QORMDATABASE_H
+#ifndef QORMSQL_QORMDATABASE_H
+#define QORMSQL_QORMDATABASE_H
 
 #include "qormsql_global.h"
 #include <QObject>
@@ -46,4 +46,4 @@ private:
     Q_DECLARE_PRIVATE(QOrmDatabase)
 };
 
-#endif // QORMDATABASE_H
+#endif // QORMSQL_QORMDATABASE_H

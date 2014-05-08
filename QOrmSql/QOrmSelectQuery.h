@@ -1,5 +1,5 @@
-#ifndef QORMSELECTQUERY_H
-#define QORMSELECTQUERY_H
+#ifndef QORMSQL_QORMSELECTQUERY_H
+#define QORMSQL_QORMSELECTQUERY_H
 
 #include "QOrmModelVisitor.h"
 #include <QString>
@@ -59,4 +59,4 @@ private:
     bool m_orderAscending;
 };
 
-#endif // QORMSELECTQUERY_H
+#endif // QORMSQL_QORMSELECTQUERY_H

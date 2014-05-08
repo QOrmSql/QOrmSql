@@ -1,5 +1,5 @@
-#ifndef QORMFIELDVISITOR_H
-#define QORMFIELDVISITOR_H
+#ifndef QORMSQL_QORMFIELDVISITOR_H
+#define QORMSQL_QORMFIELDVISITOR_H
 
 #include "QOrmField.h"
 
@@ -51,4 +51,4 @@ private:
     QOrmAbstractField *m_field;
 };
 
-#endif // QORMFIELDVISITOR_H
+#endif // QORMSQL_QORMFIELDVISITOR_H
